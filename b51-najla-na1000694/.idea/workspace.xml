@@ -1,49 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="620df9fd-9f3b-442d-b2c4-3d4f0ece2b03" name="Default Changelist" comment="" />
+    <list default="true" id="a19360fa-cf83-48dc-ac81-bfecd6d2cd17" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assgment/Ass-1/BookDomain.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assgment/Ass-1/BookDomain.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assgment/Ass-1/SingUp.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assgment/Ass-1/SingUp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assgment/Ass-1/book-donation.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assgment/Ass-1/book-donation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assgment/Ass-1/contact-us.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assgment/Ass-1/contact-us.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assgment/Ass-1/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/Assgment/Ass-1/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assgment/Ass-1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assgment/Ass-1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assgment/Ass-1/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/Assgment/Ass-1/login.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="hiddenUrls">
-      <set>
-        <option value="https://github.com/cmps350s21/Lab-B51" />
-        <option value="https://github.com/cmps350s21/b51-najla-na1000694" />
-      </set>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
     </option>
   </component>
-  <component name="ProjectId" id="1nTjRN1gmPOaNKYcI5cUgnBCSnY" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1nTk4aU3C3o4yTmgoImJqfyE80u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Assgment/Ass-1" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\najla.almuhannadi\Documents\GitHub\b51-najla-na1000694\Assgment\Ass-1" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="620df9fd-9f3b-442d-b2c4-3d4f0ece2b03" name="Default Changelist" comment="" />
-      <created>1611420967310</created>
+      <changelist id="a19360fa-cf83-48dc-ac81-bfecd6d2cd17" name="Default Changelist" comment="" />
+      <created>1611421277559</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1611420967310</updated>
-      <workItem from="1611421041247" duration="125000" />
+      <updated>1611421277559</updated>
+      <workItem from="1611421279981" duration="10568000" />
+      <workItem from="1611665298648" duration="2800000" />
+      <workItem from="1611996959747" duration="633000" />
+      <workItem from="1611999023871" duration="1634000" />
+      <workItem from="1612107250664" duration="6373000" />
+      <workItem from="1612196624953" duration="1783000" />
+      <workItem from="1612199609233" duration="909000" />
+      <workItem from="1612369275706" duration="1466000" />
+      <workItem from="1612384347588" duration="2457000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

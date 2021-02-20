@@ -1,0 +1,57 @@
+.sign-form-container {
+    background-color: lightgray;
+    margin: 100px 0 150px 450px;
+    font-size: 1.8em;
+    padding: 0 0 5px 15px;
+    border-radius: 8px;
+    width: 50%;
+    -webkit-box-shadow: 10px 20px 31px 0px rgba(0, 0, 0, 0.47);
+    -moz-box-shadow: 10px 20px 31px 0px rgba(0, 0, 0, 0.47);
+    box-shadow: 10px 20px 31px 0px rgba(0, 0, 0, 0.47);
+}
+
+main h2 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    color: white;
+    letter-spacing: 3px;
+}
+
+.signing {
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+
+}
+
+.signing input {
+    width: 95%;
+    padding: 15px 10px 50px 5px;
+    font-size: 30px;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.sign-form-container input[type='submit'] {
+    width: 99%;
+    padding: 20px;
+    margin-top: 10px;
+    text-align: center;
+    color: white;
+    background-color: #4444ff;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+@media screen and (max-width: 1100px) {
+
+    .signing {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .sign-form-container {
+        margin: 0 auto;
+    }
+}
